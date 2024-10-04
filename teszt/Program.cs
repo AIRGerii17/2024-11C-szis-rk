@@ -10,6 +10,7 @@ namespace teszt
     {
         static void Main(string[] args)
         {
+            //ide jönnek a kódok
         }
     }
 }
